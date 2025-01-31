@@ -16,8 +16,8 @@ function App() {
             Hi, RK <br></br> KARTHIKEYA SHASHANK (110121075).
           </h1>
           <p>
-            You have <br></br> been <br></br> allocated <br></br> Sabari Mess{" "}
-            <br></br> for October <br></br> 2024.
+            You have <br></br> been <br></br> allocated <br></br> Annapurna Mess{" "}
+            <br></br> for February <br></br> 2025.
           </p>
           <hr className="mt-12 mb-5 font-extralight"></hr>
         </div>
