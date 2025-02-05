@@ -13,7 +13,7 @@ function App() {
             <img className="scale-75 rounded" src="/profilepic.jpeg"></img>
           </div>
           <h1>
-            Hi, RK <br></br> KARTHIKEYA SHASHANK (110121075).
+            Hi, RK <br></br> Nakkina Santosh Kumar (111121076).
           </h1>
           <p>
             You have <br></br> been <br></br> allocated <br></br> Annapurna Mess{" "}
